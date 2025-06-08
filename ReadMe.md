@@ -18,7 +18,7 @@
 Deicidium is a **closed-source** project.  
 Its source code is **not publicly available** and distribution or modification is restricted under its licensing terms.
 
-🚧 Development Status & Release
+## 🚧 Development Status & Release
 
 Deicidium Engine is currently in development.
 While not yet publicly released, a downloadable build will be made available in the Releases section of this repository once a stable version is ready.
